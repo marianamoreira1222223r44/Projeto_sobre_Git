@@ -15,8 +15,11 @@ body {
 	font-family: 'Times New Roman', Times, serif;
 	background-color:white;
 	text-align: center;
-	padding: 20px;
 	width: auto;
+	list-style-type: none;
+	display: block;
+	padding: 8px 16px;
+	text-decoration: none;
 }
 
 .titulo {
@@ -34,6 +37,3 @@ body {
 	border: 0pc;
 }
 
-.fonte {
-	
-}
