@@ -5,7 +5,7 @@
 
 
 body {
-	font-family: 'Times New Roman', Times, serif;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	background-color: #E7F2F1;
 	text-align: center;
 	padding: 80px;
@@ -35,5 +35,13 @@ body {
 .imagem {
 	text-align: center;
 	border: 0pc;
+}
+
+.introd {
+	background-color: white;
+	text-align: center;
+	font-family: 'Times New Roman', Times, serif;
+	list-style-type: none;
+	text-decoration: none;
 }
 
